@@ -4,6 +4,10 @@
   "description": "Ava Template",
   "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
   "license": "MIT",
+  "engines" : { 
+    "npm" : ">=9.0.0",
+    "node" : ">=18.0.0"
+  }
   "repository": {
     "type": "git",
     "url": "https://bitbucket.org/pasqualevitiello/ava.git"
