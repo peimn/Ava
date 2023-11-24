@@ -4,10 +4,6 @@
   "description": "Ava Template",
   "author": "Peiman Nourani <nourani.peiman@gmail.com>",
   "license": "MIT",
-  "engines": {
-    "npm": ">=9.0.0",
-    "node": "18.17.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://bitbucket.org/pasqualevitiello/ava.git"
